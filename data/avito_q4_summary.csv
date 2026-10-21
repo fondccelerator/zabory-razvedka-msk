@@ -1,0 +1,3 @@
+scope,listings,companies,private,competitors_from_brief,profnastil_pm_n,profnastil_pm_median,profnastil_pm_q1_q3,median_views_total,promoted,source,date_collected
+первые 20,20,10,10,"masterovit.ru, oblzabor.ru, zabory-prestige.ru",7,900,775–1600,672,20,"avito.ru, регион «Москва и МО», запрос «забор из профнастила под ключ»; Apify, датасет AcCqnMVNagcDuaFN3",2026-10-21
+все 100,100,43,57,"masterovit.ru, oblzabor.ru, prof-zabory.ru, zabory-prestige.ru",40,800,650–862,310,100,"avito.ru, регион «Москва и МО», запрос «забор из профнастила под ключ»; Apify, датасет AcCqnMVNagcDuaFN3",2026-10-21

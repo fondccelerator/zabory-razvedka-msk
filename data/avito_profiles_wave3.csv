@@ -1,0 +1,4 @@
+company,domain,active,closed,rating,reviews,distribution,since,reply,match,reviews_loaded,reviews_with_score,neg_1_3,seller_replies,source,date_collected
+Заборкин,zaborkin.ru,317,24089,5,10,0/0/0/0/10,октября 2020,около 30 минут,"по названию профиля, оценка",23,10,0,2,"avito.ru, профиль продавца; Apify, датасет v8bHTrMVgoLX03N9U",2026-10-21
+ЗАБОРОВО,zaborovo.ru,95,2051,5,4,0/0/0/0/4,июня 2017,в течение дня,"по названию профиля, оценка",6,4,0,6,"avito.ru, профиль продавца; Apify, датасет v8bHTrMVgoLX03N9U",2026-10-21
+Профзаборы,prof-zabory.ru,87,17,4.8,61,2/2/0/1/56,августа 2022,около часа,"по названию профиля, оценка",75,61,4,64,"avito.ru, профиль продавца; Apify, датасет v8bHTrMVgoLX03N9U",2026-10-21
